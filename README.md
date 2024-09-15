@@ -30,7 +30,7 @@ Sensor 4: pin 44
 ## Running
 Put a loco in siding 1, 2 & 3, leaving siding 4 free. Turn on power to the arduino, motor shield and CDU.
 
-Siding 1 -> Siding 4
-Siding 3 -> Siding 1
-Siding 2 -> Siding 3
-Siding 4 -> Siding 2
+* Siding 1 -> Siding 4
+* Siding 3 -> Siding 1
+* Siding 2 -> Siding 3
+* Siding 4 -> Siding 2
